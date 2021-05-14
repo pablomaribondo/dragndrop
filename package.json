@@ -5,6 +5,9 @@
   "repository": "git@github.com:pablomaribondo/dragndrop.git",
   "author": "Pablo Maribondo <pablomgvieira@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "npx webpack"
+  },
   "devDependencies": {
     "ts-loader": "^9.1.2",
     "typescript": "^4.2.4",
