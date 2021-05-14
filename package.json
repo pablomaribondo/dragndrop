@@ -1,0 +1,15 @@
+{
+  "name": "dragndrop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pablomaribondo/dragndrop.git",
+  "author": "Pablo Maribondo <pablomgvieira@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^9.1.2",
+    "typescript": "^4.2.4",
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
