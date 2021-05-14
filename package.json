@@ -6,7 +6,7 @@
   "author": "Pablo Maribondo <pablomgvieira@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "npx webpack-dev-server",
+    "start": "npx webpack serve",
     "build": "npx webpack --config webpack.config.prod.js"
   },
   "devDependencies": {
