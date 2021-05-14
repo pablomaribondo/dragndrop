@@ -6,7 +6,8 @@
   "author": "Pablo Maribondo <pablomgvieira@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "npx webpack"
+    "build": "npx webpack",
+    "start": "npx webpack-dev-server"
   },
   "devDependencies": {
     "ts-loader": "^9.1.2",
